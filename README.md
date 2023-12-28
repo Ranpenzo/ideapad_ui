@@ -16,7 +16,9 @@ Simple drawer with settings and logout button, i will add there account manageme
 
 Settings page now contains only toggle theme switch working in a bit dumb way but i will rework it with Hive:
 
-![image](https://github.com/Ranpenzo/ideapad_ui/assets/97763066/d3fee807-e219-46a6-9e99-d6f91a47f21e)
+https://github.com/Ranpenzo/ideapad_ui/assets/97763066/a6c964ba-3676-497c-8f9b-e7dd34979b5a
+
+
 
 And finally the homepage with edit note state
 
