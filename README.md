@@ -2,7 +2,7 @@
 
 The UI of ideapad.
 
-This is my first project made in flutter. It is just simple UI i will propably use in my first application
+This is my first project made in flutter. It is just simple UI i will probably use in my first application
 
 Log in and Register Pages:
 
